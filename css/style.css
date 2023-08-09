@@ -1,0 +1,25 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+main{
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    top: 250px;
+}
+.sbanner{
+  margin-top: -250px;
+}
+.col{
+    
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    align-items: center;
+    margin: 15px;
+}
+   
+
+
